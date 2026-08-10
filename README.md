@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Isaac Maldonado
 
-<!--
-**JIsaacMG/JIsaacMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack enfocado en el ecosistema Java y tecnologías web modernas. Me apasiona construir aplicaciones escalables, funcionales y con código limpio.
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend: Java, Spring Boot, Spring Data JPA, APIs RESTful
+* Frontend: Angular, TypeScript, HTML5, CSS3, Bootstrap
+* Bases de Datos: MySQL, Oracle DB
+* Herramientas: Git, GitHub, Postman, IntelliJ IDEA, VS Code
+
+## Enfoque Actual
+
+* Desarrollo de soluciones Full Stack con arquitecturas desacopladas.
+* Aplicación de buenas prácticas de programación y patrones de diseño.
+
+---
+Contacto: [LinkedIn](www.linkedin.com/in/jorge-isaac-maldonado-gonzalez-421150315) | México
