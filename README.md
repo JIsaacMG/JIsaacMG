@@ -69,17 +69,3 @@ Full Stack Developer focused on the Java ecosystem and modern web technologies. 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge&color=blue">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </a>
-</p>
